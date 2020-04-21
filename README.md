@@ -1,2 +1,0 @@
-# Stickyrollexamp
-Created with CodeSandbox
